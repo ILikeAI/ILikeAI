@@ -13,6 +13,12 @@ immersive 3D studio.
 - [Generative NPCs in Unreal Engine 5](https://youtu.be/e2UGwXpu_zc): built in
   mid-2023 at Dialogue Smith, a few months after the Generative Agents paper.
   NPCs see their surroundings, remember, talk to each other and act.
+- [Sightline Synthetic UE](https://github.com/ILikeAI/sightline-synthetic-ue):
+  synthetic gaze-data generator in Unreal Engine 5.8, with labelled gaze rays
+  and a fixed camera and display geometry.
+- [Decider vision benchmark](https://github.com/ILikeAI/decider-vision-region-bench):
+  latency and screen-region accuracy tests for a 2B vision model on Apple
+  Silicon.
 - [Codex Radial Wheel](https://github.com/ILikeAI/codex-radial-wheel): native
   macOS switcher for Codex chats.
 - [Don't Die On Me Now](https://github.com/ILikeAI/dont-die-on-me-now): keeps
